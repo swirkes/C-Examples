@@ -1,0 +1,4 @@
+0. The program allows dimensions of 3x3 - 9x9.
+1. The board is created with a 2D array.
+2. The function greet() is called to greet the player at the start.
+3. init(), draw(), move(), and won() need to be implemented.
